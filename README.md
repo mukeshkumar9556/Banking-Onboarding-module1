@@ -1,6 +1,6 @@
 # Banking-Onboarding-moduleAdd commentMore actions
 This is a backend-only Spring Boot application developed for Banking Customer Onboarding. It supports onboarding workflows including user registration, email verification, SMS OTP verification using 2Factor API, Razorpay payment integration, and document/image upload handling.
-[11:50 am, 6/6/2025] Akhil:  Tech Stack
+[11:50 am, 6/6/2025]   Tech Stack
 
 - *Backend*: Spring Boot, Spring Data JPA, REST API
 - *Database*: MySQL
